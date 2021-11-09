@@ -4,3 +4,8 @@ dist/
 .vscode
 .tox
 .python-version
+
+# Pycharm IDE
+.idea/
+# pytest cache files
+.pytest_cache/
